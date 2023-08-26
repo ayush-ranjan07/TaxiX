@@ -21,7 +21,9 @@ Looker Studio
 
 
 ## Dataset
+
 Dataset Website - https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page
+
 Dataset Dictionary - https://www.nyc.gov/assets/tlc/downloads/pdf/data_dictionary_trip_records_yellow.pdf
 
 ## Steps to Create TaxiX:
