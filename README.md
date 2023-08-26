@@ -6,12 +6,19 @@ Welcome to the TaxiX repository! This project demonstrates a comprehensive Taxi 
 
 ## Technology Used
 
-Programming Language - Python
+Programming Language - 
+Python
+
 Google Cloud Platform
+
 Google Storage
+
 Compute Instance
+
 BigQuery
+
 Looker Studio
+
 
 ## Dataset
 Dataset Website - https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page
