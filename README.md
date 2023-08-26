@@ -4,6 +4,19 @@ Dashboard - https://lookerstudio.google.com/reporting/3aaa5b83-6fde-449b-90ef-14
 
 Welcome to the TaxiX repository! This project demonstrates a comprehensive Taxi data analysis solution built using cloud technologies. By following these steps, you can replicate the process and gain valuable insights from the Uber dataset.
 
+## Technology Used
+
+Programming Language - Python
+Google Cloud Platform
+Google Storage
+Compute Instance
+BigQuery
+Looker Studio
+
+## Dataset
+Dataset Website - https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page
+Dataset Dictionary - https://www.nyc.gov/assets/tlc/downloads/pdf/data_dictionary_trip_records_yellow.pdf
+
 ## Steps to Create TaxiX:
 
 1. **Data Storage:**
