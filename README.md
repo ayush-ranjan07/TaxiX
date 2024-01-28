@@ -56,7 +56,6 @@ Dataset Dictionary - https://www.nyc.gov/assets/tlc/downloads/pdf/data_dictionar
 9. **Dashboard Creation:**
    Utilize Local Studio to design an interactive dashboard. Customize it with the Uber logo and incorporate a filter for rate codes to enhance user experience.
 
-## Get Started:
 
 To replicate TaxiX :
 
