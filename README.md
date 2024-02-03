@@ -8,17 +8,17 @@ View The Project - https://lookerstudio.google.com/reporting/3aaa5b83-6fde-449b-
 ## Technology Used
 
 Programming Language - 
-Python
+- Python
 
-Google Cloud Platform
+- Google Cloud Platform
 
-Google Storage
+- Google Storage
 
-Compute Instance
+- Compute Instance
 
-BigQuery
+- BigQuery
 
-Looker Studio
+- Looker Studio
 
 
 ## Dataset
